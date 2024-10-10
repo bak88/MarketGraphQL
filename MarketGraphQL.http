@@ -1,0 +1,6 @@
+@MarketGraphQL_HostAddress = http://localhost:5181
+
+GET {{MarketGraphQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
